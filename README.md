@@ -64,3 +64,7 @@ cannot work without authentication or with another authentication scheme.
 at the moment*.
 
 [shelf]: https://pub.dartlang.org/packages/shelf
+
+
+注意事项：
+1、将项目的https://pub.dartlang.org替换成https://pub.flutter-io.cn
